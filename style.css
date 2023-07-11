@@ -1,5 +1,53 @@
-p {
-    color:red;
-    font-size: large;
+body {
+    background-color:white;
+    
+}
+
+.h1 {
+    color:blue;
+    font-size:50px;
+    font-style: italic;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.h2 {
+    color:yellow;
+    font-size: 45px;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.d1 {
+    display: flex;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+
+
+}
+
+.d2 {
+    display: flex;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.d3 {
+    display: flex;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.d4 {
+    display: flex;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.d5 {
+    display: flex;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
